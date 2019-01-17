@@ -1,4 +1,4 @@
-# FPang
+# ZDPang
 
 > My remarkable Nuxt.js project
 
